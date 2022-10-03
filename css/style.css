@@ -1,0 +1,124 @@
+
+
+
+.side{
+	background-color: #ff3b00c7;
+
+}
+.side a{
+	text-decoration: none;
+	color: #fff;
+
+}
+ .col-md-2:hover{
+	background-color: #34220cb3;
+	transition: 0.2s;
+}
+.sideright{
+	background-color: #34220cb3;
+
+}
+.sideright a{
+	text-decoration: none;
+	color: #fff;
+	margin: 5px;
+}
+svg{
+	margin-top: -18px;
+	margin-right: 25px;
+}
+.logo{
+	margin-left: 215px;
+}
+.location{
+	margin-left: 115px;
+}
+#row{
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 0; 
+}
+
+ ul li a{
+ 	margin:0px 13px 0px 13px;
+ }
+
+  	nav .text-light:hover{
+ 	border-bottom: 3px solid #ff3b00;
+ 	
+
+ }
+
+ h1{
+ 	margin-top: 130px;
+ 	font-size: 50px;
+ }
+ .btn{
+ 	background-color: #ff3b00;
+ 	border-radius: 0px;
+ 	font-weight: bold;
+ 	color: #fff;
+ }
+  .btn:hover{
+ 	background-color: #34220cb3;
+ 	color: #fff;
+
+ }
+ #first ul li{ 
+ 	list-style: none;
+
+ }
+ #first a{
+ 	text-decoration: none;
+ 	color: #000;
+ }
+ #first a:hover{
+ 	text-decoration: underline;
+ 	color: #b1310b;
+ }
+ #second ul li{ 
+ 	list-style: none;
+ 	padding-top: 10px; 
+ }
+ #second a{
+ 	text-decoration: none;
+ 	color: #000;
+ }
+ #second a:hover{
+ 	text-decoration: underline;
+ 	color: #b1310b;
+ }
+ #third ul li{ 
+ 	list-style: none;
+ 	padding-top: 8px; 
+ }
+ #third a{
+ 	text-decoration: none;
+ 	color: #000;
+ }
+ #third a:hover{
+ 	text-decoration: underline;
+ 	color: #b1310b;
+ }
+ #forth ul li{ 
+ 	list-style: none;
+ 	padding-top: 9px 22px; 
+ }
+ #forth a{
+ 	text-decoration: none;
+ 	color: #000;
+ }
+ #forth a:hover{
+ 	text-decoration: underline;
+ 	color: #b1310b;
+ }
+
+
+ hr{
+ 	width: 250px;
+ 	color: #b1310b;
+ 	margin-top: 7px;
+ 	margin-left:4px; 
+ }
+ #menu{
+ 	height: 50px;
+ }
